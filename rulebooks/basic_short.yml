@@ -19,4 +19,4 @@
                 fake_execution_time: "5"
 
         - debug:
-            msg: "Basic short rulebook, event {{ event.i }}"
+            msg: "DOUBLE BIG MODIFICATION Basic short rulebook, event {{ event.i }}"
